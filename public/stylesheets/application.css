@@ -1,4 +1,7 @@
 body {
-  background: pink; }
+  background: #ccc;
+  text-align: center;
+  font-family: Monaco;
+  font-size: 3em; }
 
 /*# sourceMappingURL=application.css.map */
