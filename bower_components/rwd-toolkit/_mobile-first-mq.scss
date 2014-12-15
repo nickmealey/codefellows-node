@@ -1,0 +1,15 @@
+// Mobile first media query support
+// *-------------------------------------------------------------------------------
+
+// Using min-width breakpoints is considered a `mobile-first` approach
+// All mobile UI will be written as default UI
+// As you break at points larger then the min width, you add to or alter the UI
+// *-------------------------------------------------------------------------------
+
+$tablet-width: round(em(360, $font-size)) !default;
+$desktop-width: round(em(768, $font-size)) !default;
+$lg-desktop-width: round(em(1024, $font-size)) !default;
+
+$tablet: "screen and (min-width: #{$tablet-width})" !default;
+$desktop: "screen and (min-width: #{$desktop-width})" !default;
+$lg-desktop: "screen and (min-width: #{$lg-desktop-width})" !default;

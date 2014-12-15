@@ -1,0 +1,25 @@
+{
+  "name": "rwd-toolkit",
+  "authors": [
+    "Dale Sande <dale.sande@gmail.com>"
+  ],
+  "ignore": [
+    ".gitignore",
+    "bower.json",
+    "**/*.md"
+  ],
+  "description": "A package of Sass code exclusively for the use in RWD development.",
+  "main": "_rwd-toolkit",
+  "license": "MIT",
+  "homepage": "https://github.com/anotheruiguy/rwd-toolkit",
+  "_release": "8322bdd755",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "8322bdd755ba65894d5d9ef17de1d351bf48d89a"
+  },
+  "_source": "git://github.com/anotheruiguy/rwd-toolkit.git",
+  "_target": "*",
+  "_originalSource": "rwd-toolkit",
+  "_direct": true
+}

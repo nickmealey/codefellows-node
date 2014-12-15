@@ -1,0 +1,15 @@
+{
+  "name": "rwd-toolkit",
+  "version": "0.1.0",
+  "authors": [
+    "Dale Sande <dale.sande@gmail.com>"
+  ],
+  "ignore": [
+    ".gitignore",
+    "bower.json",
+    "**/*.md"
+  ],
+  "description": "A package of Sass code exclusively for the use in RWD development.",
+  "main": "_rwd-toolkit",
+  "license": "MIT"
+}

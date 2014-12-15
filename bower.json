@@ -1,0 +1,8 @@
+{
+  "name": "nodle",
+  "dependencies": {
+    "color-scale": "*",
+    "type-rhythm-scale": "*",
+    "rwd-toolkit": "*"
+  }
+}
